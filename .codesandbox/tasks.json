@@ -1,17 +1,8 @@
 {
   // These tasks will run in order when initializing your CodeSandbox project.
-  "setupTasks": [],
+  "setupTasks": []
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
-  "tasks": {
-    "swift": {
-      "name": "swift",
-      "command": "swift"
-    },
-    "apt install swift": {
-      "name": "apt install swift",
-      "command": "apt install swift",
-      "runAtStart": true
-    }
-  }
+
+  
 }
